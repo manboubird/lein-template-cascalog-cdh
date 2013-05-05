@@ -14,7 +14,7 @@ To use:
 lein new cascalog-cdh my-cascalog-project
 cd my-cascalog-project
 lein compile && lein uberjar
-hadoop jar ./target/my-cascalog-project-0.1.0-standalone.jar my-cascalog-project.core
+hadoop jar ./target/my-cascalog-project-0.1.0-standalone.jar my_cascalog_project.core
 ```
 
 ## License
