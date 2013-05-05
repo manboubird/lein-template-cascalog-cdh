@@ -1,4 +1,4 @@
-(ns {{ns-name}}.core
+(ns {{sanitized}}.core
   (:use cascalog.api)
   (:gen-class))
 

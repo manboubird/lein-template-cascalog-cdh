@@ -1,4 +1,4 @@
-(ns {{ns-name}}.core-test
+(ns {{sanitized}}.core-test
   (:use cascalog.api
         cascalog_cdh.core
         [midje sweet cascalog]))
