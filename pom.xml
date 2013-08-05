@@ -4,16 +4,22 @@
   <groupId>cascalog-cdh</groupId>
   <artifactId>lein-template</artifactId>
   <packaging>jar</packaging>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <name>lein-template</name>
   <description>Created with lein-create-template</description>
-  <url>http://example.com/FIXME</url>
+  <url>https://github.com/manboubird/lein-template-cascalog-cdh</url>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
       <url>http://www.eclipse.org/legal/epl-v10.html</url>
     </license>
   </licenses>
+  <scm>
+    <connection>scm:git:git://github.com/manboubird/lein-template-cascalog-cdh.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/manboubird/lein-template-cascalog-cdh.git</developerConnection>
+    <tag>282ed7f4ac2a80f2fa69b6bbabd896f2b0b90ded</tag>
+    <url>https://github.com/manboubird/lein-template-cascalog-cdh</url>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <testSourceDirectory>test</testSourceDirectory>
